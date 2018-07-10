@@ -9,6 +9,16 @@ def breakfast(breakfast="frosted flakes")
   "Morning, is the right time for #{breakfast}"
 end
 
+def lunch(lunch="grilled cheese")
+  "Afternoon,is the right time for #{lunch}"
+end
+
+def
+
+
+
+
+
 puts breakfast
 
 
